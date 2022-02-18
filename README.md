@@ -1,8 +1,4 @@
-## For Part-1, values I tried and the best values set as global variables on the top.
 --------------------------------------------------------------------------------
-## Best values for k-means and k-nn are set as global variables on the top.
---------------------------------------------------------------------------------
-<<<<<<< HEAD
 # There is a function called "custom_process_selector" that allows the user to choose the operations from command-line, below are the samples for this purpose:
 ## train selector_type cluster_count
 trains and creates cluster and data files locally
@@ -26,3 +22,8 @@ starts running for different k values of k-means
 starts running for different k values of k-nn
 ## clear
 cleares all the .pkl files that are locally stored
+
+--------------------------------------------------------------------------------
+#### For Part-1, values I tried and the best values set as global variables on the top.
+--------------------------------------------------------------------------------
+#### Best values for k-means and k-nn are set as global variables on the top.
