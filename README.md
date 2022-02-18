@@ -2,6 +2,7 @@
 --------------------------------------------------------------------------------
 ## Best values for k-means and k-nn are set as global variables on the top.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 # There is a function called "custom_process_selector" that allows the user to choose the operations from command-line, below are the samples for this purpose:
 ## train selector_type cluster_count
 trains and creates cluster and data files locally
