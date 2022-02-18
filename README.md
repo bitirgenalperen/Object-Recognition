@@ -2,11 +2,11 @@
 --------------------------------------------------------------------------------
 => Best values for k-means and k-nn are set as global variables on the top.
 --------------------------------------------------------------------------------
-=> There is a function called "custom_process_selector" that allows the user to choose the operations from command-line, below are the samples for this purpose:
-        - train selector_type cluster_count
-            - trains and creates cluster and data files locally
-        - validation selector_type cluster_count
-            - runs on the validation data and creates the validation data instances locally
+=> There is a function called "custom_process_selector" that allows the user to choose the operations from command-line, below are the samples for this purpose: \
+        - train selector_type cluster_count \
+            - trains and creates cluster and data files locally \ 
+        - validation selector_type cluster_count \ 
+            - runs on the validation data and creates the validation data instances locally \
         - evaluate eval_type sift_type cluster_count neigboor_count
             |-  evaluates the accuracy with given preferences
         - run eval_dir, sift_type, cluster_count, neigboor_count
